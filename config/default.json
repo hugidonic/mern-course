@@ -1,0 +1,6 @@
+{
+	"port": 5000,
+	"secretJwt": "Secret string",
+	"baseUrl":"http://localhost:5000",
+	"mongoUri": "mongodb+srv://admin:admin123@mongodb.zvigw.azure.mongodb.net/Mongodb?retryWrites=true&w=majority"
+}
